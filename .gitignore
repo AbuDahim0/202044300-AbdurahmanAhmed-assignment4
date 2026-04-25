@@ -23,3 +23,6 @@ build/
 # Temp
 tmp/
 temp/
+
+# Large video submitted separately in Blackboard
+presentation/demo-video.mp4
